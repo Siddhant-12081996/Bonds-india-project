@@ -21,3 +21,4 @@ nextButton.addEventListener('click', () => {
     moveCarousel('right');
   }
 });
+
